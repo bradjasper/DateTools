@@ -185,3 +185,4 @@ NSLocalizedStringFromTableInBundle(key, @"DateTools", [NSBundle bundleWithPath:[
 +(NSString *)defaultCalendarIdentifier;
 + (void)setDefaultCalendarIdentifier:(NSString *)identifier;
 @end
+

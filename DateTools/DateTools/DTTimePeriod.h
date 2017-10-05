@@ -121,3 +121,4 @@ typedef NS_ENUM(NSUInteger, DTTimePeriodAnchor) {
 #pragma mark - Helper Methods
 -(DTTimePeriod *)copy;
 @end
+
