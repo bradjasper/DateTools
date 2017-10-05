@@ -1,3 +1,5 @@
+**FORK** Added newlines
+
 ![Banner](https://raw.githubusercontent.com/MatthewYork/Resources/master/DateTools/DateToolsHeader2.png)
 
 ## DateTools
